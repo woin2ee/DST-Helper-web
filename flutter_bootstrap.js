@@ -23,7 +23,7 @@ setProgress(85);
 _flutter.loader.load(
     {
         serviceWorkerSettings: {
-            serviceWorkerVersion: '"1298334115"',
+            serviceWorkerVersion: '"1538517207"',
         },
         config: userConfig,
         onEntrypointLoaded: async function (engineInitializer) {
